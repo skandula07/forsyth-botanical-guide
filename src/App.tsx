@@ -12,7 +12,7 @@ function App() {
         <div className=" h-80 w-8/12 bg-slate-50 rounded-r-2xl"></div>
         
       </div> */}
-      <p>THE place to learn about this plant</p>
+      {/* <p>THE place to learn about this plant</p> */}
 
 
 
